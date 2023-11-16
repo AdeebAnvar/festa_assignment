@@ -12,7 +12,7 @@ void main() {
       theme: ThemeData(
         primarySwatch: customTeal,
       ),
-      title: "Application",
+      title: 'Application',
       initialRoute: AppPages.INITIAL,
       getPages: AppPages.routes,
     ),
